@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @MadalinaC560
-- 👀 I’m interested in Computer Science (of course!)
-- 🌱 I’m currently learning Java & C
-- 😄 Pronouns: Any Prounouns :D
+- Student at Trinity College Dublin
+- Degree: Integrated CS
 
 <!---
 MadalinaC560/MadalinaC560 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
